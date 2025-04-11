@@ -1,0 +1,26 @@
+Age Calculator Script (Python)
+This Python script calculates a user's age in years, months, and days based on the age (in years) they provide. It uses the current system date to perform the calculations.
+
+How It Works:
+User Input: Prompts for the user's name and age in years.
+
+Date Handling: Uses the time module to get the current date.
+
+Leap Year Check: Uses calendar.isleap() to determine if a given year is a leap year.
+
+Days Calculation:
+
+Adds 365 or 366 days for each year based on leap year status.
+
+Adds days for each month in the current year up to the present month.
+
+Adds the current day of the month.
+
+Output:
+Displays the user's age in three formats:
+
+Total years
+
+Total months
+
+Total days
