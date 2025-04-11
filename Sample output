@@ -1,0 +1,8 @@
+Example:
+pgsql
+Copy
+Edit
+input your name: John
+input your age: 30
+John's age is 30 years or 361 months or 10957 days
+This script is useful for basic practice with Python control structures, date/time functions, and user input handling.
